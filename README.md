@@ -2,6 +2,15 @@
 
 **GP's Assistant Diagnostician** is a next-generation, interactive Streamlit application that combines the power of Large Language Models (LLMs) with traditional machine learning to deliver fast, explainable, and actionable medical predictions from minimal, human-readable data.
 
+
+## Walkthrough
+
+
+
+https://github.com/user-attachments/assets/de7aef80-fd82-4c1d-8c87-3718edcdffb1
+
+
+
 ---
 
 ## 🚀 What Makes This App Unique?
