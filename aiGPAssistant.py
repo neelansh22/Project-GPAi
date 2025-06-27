@@ -12,7 +12,7 @@ import io
 from datetime import datetime
 
 # Initialize the Mistral client
-api_key = ""
+api_key = "" ########################### Enter you API key here #################################
 client_api = MistralClient(api_key=api_key)
 
 def get_text_embedding(input):
