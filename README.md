@@ -123,4 +123,4 @@ For questions, suggestions, or contributions, please open an issue or contact th
 
 
 
-*Empowering clinicians and researchers to do more with less—combining the best of LLMs and classic ML for smarter, faster, and more transparent
+Empowering clinicians and researchers to do more with less—combining the best of LLMs and classic ML for smarter, faster, and more transparent
