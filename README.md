@@ -109,6 +109,7 @@ https://github.com/user-attachments/assets/de7aef80-fd82-4c1d-8c87-3718edcdffb1
 ---
 
 ## 📝 Example Data Format
+### Link to the dataset - https://raw.githubusercontent.com/mistralai/cookbook/main/data/Symptom2Disease.csv
 
 | label         | text                                 |
 |---------------|--------------------------------------|
