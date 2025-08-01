@@ -32,7 +32,7 @@ GP's Assistant Diagnostician is a cutting-edge AI-powered medical diagnosis tool
 
 ## 🎬 Video Walkthrough
 
-<iframe width="2529" height="1002" src="https://www.youtube.com/embed/BjGXEOjJltU" title="GPAi Walkthrough - https://gpai-nworks.streamlit.app/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/video-id](https://www.youtube.com/watch?v=BjGXEOjJltU&t=40s)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## ⚡ Quick Start
