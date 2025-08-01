@@ -1,4 +1,4 @@
-# 🩺 GP's Assistant Diagnostician
+# 🩺 NWorks - GP's Assistant Diagnostician
 
 > **AI-Powered Medical Diagnosis Assistant** - Revolutionizing healthcare diagnostics with advanced machine learning and local LLM integration.
 
