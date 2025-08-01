@@ -271,7 +271,7 @@ ngrok http 1234 --host-header="192.168.1.16:1234"
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **📧 Email**: neelanshbalhara@gmail.com
+- **📧 Email**: nworks.sup@gmail.com
 
 ---
 
