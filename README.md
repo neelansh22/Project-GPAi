@@ -32,7 +32,8 @@ GP's Assistant Diagnostician is a cutting-edge AI-powered medical diagnosis tool
 
 ## 🎬 Video Walkthrough
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BjGXEOjJltU&t=40s/0.jpg)](https://www.youtube.com/watch?v=BjGXEOjJltU&t=40s)
+[![Watch the video](https://img.youtube.com/vi/BjGXEOjJltU/hqdefault.jpg)](https://www.youtube.com/watch?v=BjGXEOjJltU)
+
 
 ---
 
